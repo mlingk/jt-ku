@@ -1,6 +1,8 @@
 spring:
   application:
     name: hystrix-dashboard
+   
+  
     
 server:
   port: 4001
